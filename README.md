@@ -22,7 +22,7 @@
 
 [Main branch deployed on heroku](https://wesam-api-server.herokuapp.com/)
 
-[Pull request from dev branch to main](https://github.com/Wesam-Alqawasmeh/api-server/pull/1)
+[Pull request from dev branch to main](https://github.com/Wesam-Alqawasmeh/api-server/pull/2)
 
 [GitHub actions](https://github.com/Wesam-Alqawasmeh/api-server/actions)
 
@@ -30,4 +30,4 @@
 
 ## UML
 
-<!-- ![uml](./img/lab03UML.jpg) -->
+![uml](./img/lab04UML.jpg)
